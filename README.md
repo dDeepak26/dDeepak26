@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Durgam</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
-- 🌱 I’m currently learning **MCA**
+- 🌱 I’m currently in **MCA**
 
 - 📫 How to reach me **deepakdurgam26@gmail.com**
 
