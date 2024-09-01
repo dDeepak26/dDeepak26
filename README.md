@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱I'm currently learning
-👯 I’m looking to collaborate on Web Development projects
+- 🌱I'm currently learning
+- 👯 I’m looking to collaborate on Web Development projects
 
 
 ## 🌐 Socials:
